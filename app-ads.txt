@@ -5,6 +5,7 @@ appodeal.com, 123679, RESELLER
 bidmachine.io, 123679, RESELLER
 #AdMob
 #Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, , DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, 866426430802492, RESELLER, c3e20eee3f780d68
